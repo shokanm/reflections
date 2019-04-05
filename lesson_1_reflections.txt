@@ -1,0 +1,52 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    i didnt do the ex
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    I can backup files
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    well, commit saves me from uploading unnecessary/temp file to th server
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Google Docs is about documents, and Git is about code
+
+How can you use the commands git log and git diff to view the history of files?
+
+    I dont know yet
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    enough confident, I guess
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    learn Git
+
+ What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+ 	I think manual commit is good enough unless you have unexpected computer crash
+
+ Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+ 	Google Docs is about documents, and Git is about code
+How can you use the commands git log and git diff to view the history of files?
+	by using git log I can find all commit IDs and related information, by got diff I can find out the difference
+
+How might using version control make you more confident to make changes that could break something?
+	it defenetly makes me confident decause I know I can allways get back to working version
+
+Now that you have your workspace set up, what do you want to try using Git for?
+	well, I want to try use diffenrent comands of git
+
+
+

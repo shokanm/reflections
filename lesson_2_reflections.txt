@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+	it creates a repo for me. .git hidden folder signals that a repo exists here.
